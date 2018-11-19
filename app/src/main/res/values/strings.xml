@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="hint"> </string>
+    <string name="currency_usd_to_peso">$USD to Peso</string>
+    <string name="currency_peso_to_usd">Peso to $USD</string>
+    <string name="btn_convert">Convert Currency</string>
+    <string name="txtResult"> </string>
+</resources>
